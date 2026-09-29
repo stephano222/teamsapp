@@ -295,6 +295,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSfzT6WZfl-wgK2QODB_uK7xbJreLSJnJPxTtoMW
 | Render | 採用 | GitHub に push するだけで自動デプロイでき、サーバーの知識が少なくても公開できる |
 | Heroku | 不採用 | 無料プランがなく、学習段階ではコストがかかる |
 | Kamal | 不採用 | Rails 8 標準だが、自分でサーバーを用意・管理する必要がある |
+| GitHub Pages | 不採用 | HTML などの静的なファイルしか公開できず、Rails やデータベースを動かせない |
+| Vercel | 不採用 | Next.js などのフロントエンド向けで、Rails を常に動かし続ける使い方には向いていない |
+
+#### CI/CD
+
+| 候補 | 採用/不採用 | 理由 |
+| --- | --- | --- |
+| Render の自動デプロイのみ | 採用（MVP） | 追加の設定なしで push するだけで公開でき、まず動くものを出すことを優先できる |
+| GitHub Actions | 採用（本リリース） | push のたびにテストを自動で実行し、失敗したコードが公開されるのを防げる |
 
 #### 認証
 
