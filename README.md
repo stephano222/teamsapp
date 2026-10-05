@@ -221,6 +221,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSfzT6WZfl-wgK2QODB_uK7xbJreLSJnJPxTtoMW
 - 利用規約/プライバシーポリシー
 - 連絡・管理ツールを用途ごと（チャット、タスク管理、Web 会議）に複数指定できる機能
 
+### 画面遷移図
+
+MVP の画面構成と遷移を Figma にまとめています。
+
+- [画面遷移図（Figma）](https://www.figma.com/design/cUyeMArI98RBScnMgS4Op7/Untitled?node-id=0-1)
+
 ---
 
 ## 8. このアプリの懸念点とその対策
