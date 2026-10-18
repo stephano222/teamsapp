@@ -1,6 +1,7 @@
 # teamsapp
 
-開発環境のセットアップ手順は [docs/SETUP.md](docs/SETUP.md) を参照してください。
+- 画面遷移図: [Figma](https://www.figma.com/design/lecTtFpbie6xLC0fDKnX7j/teamsapp-%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=1-149)
+- 開発環境のセットアップ手順: [docs/SETUP.md](docs/SETUP.md)
 
 ## 1. サービス概要
 
